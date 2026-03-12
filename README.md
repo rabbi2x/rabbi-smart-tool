@@ -1,15 +1,14 @@
-# rabbi-smart-tool
-Universal Android Fastboot Flashing Tool for Linux and Termux
-# 🚀 RABBI ALL-IN-ONE SMART TOOL (V2.0)
-### The Ultimate Universal Flashing & Sideloading Utility
+# 🚀 RABBI UNIVERSAL SMART FLASHER
+### The Ultimate Fastboot Flashing Utility for Android
 
-**RABBI SMART TOOL** is a powerful automation script designed for Linux and Termux users. It simplifies flashing system images (.img) and supports ADB Sideloading.
+**RABBI UNIVERSAL SMART FLASHER** is a powerful automation script designed for Linux and Termux users. It simplifies the process of flashing system images (.img) and binary files (.bin) to any Android device using Fastboot mode.
 
 ## 🔥 Key Features
-- **Universal Flashing:** Auto-detects partitions based on filenames.
-- **ADB Sideload Support:** Flash .zip files from recovery.
-- **Smart Detection:** Displays Device Serial and Product Name.
-- **Safe & Fast:** Requires confirmation before flashing.
+- **✅ Universal Dynamic Flashing:** Automatically detects partition names based on filenames (e.g., `boot.img` flashes to the `boot` partition).
+- **✅ Intelligent Device Detection:** Displays Device Serial and Product Name before starting.
+- **✅ Safety First:** Requires manual user confirmation (`y/n`) to prevent accidental flashing.
+- **✅ Professional UI:** Clean, color-coded output for a professional terminal experience.
+- **✅ Performance Tracking:** Tracks and displays the total execution time for each task.
 
 ## 🛠 Installation
 Run these commands in your **Termux** or **Linux Terminal**:
