@@ -18,3 +18,7 @@ git clone [https://github.com/rabbi2x/rabbi-smart-tool](https://github.com/rabbi
 cd rabbi-smart-tool
 chmod +x rabbi_tool.sh
 ./rabbi_tool.sh
+
+## ⚠️ Disclaimer
+This tool is for educational purposes only. Flashing partitions can be risky. 
+I am not responsible for any bricked devices. Use it at your own risk!
